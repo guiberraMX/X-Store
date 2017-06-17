@@ -1728,25 +1728,25 @@ footer img {max-width: 156px;}
 
 .bobody {
     
-  color: #b61b1b;
+  color: #0cf289;
   animation: color 10s infinite;
   -webkit-animation: color 10s infinite;
 }
 
 @-webkit-keyframes color {
-  0% { color: #cc5d25; }
-  33% { color: #b61b1b; }
-  66% { color: #ff7f11; }
+  0% { color: #02f5e7; }
+  33% { color: #0cf289; }
+  66% { color: #1fd4fb; }
   
-  100% { color: #cc5d25; }
+  100% { color: #02f5e7; }
 }
 
 @keyframes color {
-   0% { color: #cc5d25; }
-  33% { color: #b61b1b; }
-  66% { color: #ff7f11; }
+   0% { color: #02f5e7; }
+  33% { color: #0cf289; }
+  66% { color: #1fd4fb; }
   
-  100% { color: #cc5d25; }
+  100% { color: #0cf289; }
 }
 
 
