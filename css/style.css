@@ -1726,6 +1726,30 @@ footer img {max-width: 156px;}
 
 
 
+.bobody {
+    
+  color: #b61b1b;
+  animation: color 10s infinite;
+  -webkit-animation: color 10s infinite;
+}
+
+@-webkit-keyframes color {
+  0% { color: #cc5d25; }
+  33% { color: #b61b1b; }
+  66% { color: #ff7f11; }
+  
+  100% { color: #cc5d25; }
+}
+
+@keyframes color {
+   0% { color: #cc5d25; }
+  33% { color: #b61b1b; }
+  66% { color: #ff7f11; }
+  
+  100% { color: #cc5d25; }
+}
+
+
 
 
 
